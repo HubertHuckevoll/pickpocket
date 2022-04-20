@@ -1,2 +1,2 @@
 # pickpocket
-an xpath extractor
+an xpath based scarper for any url passed
